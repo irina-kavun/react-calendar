@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-calendar/static/css/main.e8aee22d.chunk.css",
+    "main.js": "/react-calendar/static/js/main.7de69d75.chunk.js",
+    "main.js.map": "/react-calendar/static/js/main.7de69d75.chunk.js.map",
+    "runtime-main.js": "/react-calendar/static/js/runtime-main.350b7332.js",
+    "runtime-main.js.map": "/react-calendar/static/js/runtime-main.350b7332.js.map",
+    "static/css/2.6fea60a8.chunk.css": "/react-calendar/static/css/2.6fea60a8.chunk.css",
+    "static/js/2.0cba2285.chunk.js": "/react-calendar/static/js/2.0cba2285.chunk.js",
+    "static/js/2.0cba2285.chunk.js.map": "/react-calendar/static/js/2.0cba2285.chunk.js.map",
+    "index.html": "/react-calendar/index.html",
+    "precache-manifest.23264797d10f9f695cd82048e603b5cc.js": "/react-calendar/precache-manifest.23264797d10f9f695cd82048e603b5cc.js",
+    "service-worker.js": "/react-calendar/service-worker.js",
+    "static/css/2.6fea60a8.chunk.css.map": "/react-calendar/static/css/2.6fea60a8.chunk.css.map",
+    "static/css/main.e8aee22d.chunk.css.map": "/react-calendar/static/css/main.e8aee22d.chunk.css.map",
+    "static/js/2.0cba2285.chunk.js.LICENSE.txt": "/react-calendar/static/js/2.0cba2285.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.350b7332.js",
+    "static/css/2.6fea60a8.chunk.css",
+    "static/js/2.0cba2285.chunk.js",
+    "static/css/main.e8aee22d.chunk.css",
+    "static/js/main.7de69d75.chunk.js"
+  ]
+}
